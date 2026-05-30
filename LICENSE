@@ -1,0 +1,6 @@
+** Reference 
+- OV7670 datasheet from OmniVision
+https://content.instructables.com/F5N/MVN2/ILV7T7P5/F5NMVN2ILV7T7P5.pdf?_gl=1*1yn3w9w*_ga*MTI0NTU1MzEwOC4xNzc4MTcwNDEy*_ga_NZSJ72N6RX*czE3Nzg3NTQ4MjckbzEwJGcxJHQxNzc4NzU0ODI3JGo2MCRsMCRoMA 
+- Inspiration from Mike Field's OV7670 controller
+https://www.instructables.com/Connect-Camera-to-Zybo-Board/ 
+- CUHK CENG 3430 lec05 Driving VGA Display by Prof. Yang Ming Chang 
