@@ -35,4 +35,5 @@ ov7670 camera -> SCCB configuration -> VGA capture -> line buffer + 3x3 filter -
 │   └── blk_mem_gen_0.xci
 │ 
 ├── LICENSE
-└── README.md
+├── README.md
+└── project report.docx # a report explain all parts of design and vhdl codes
